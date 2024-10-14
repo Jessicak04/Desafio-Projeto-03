@@ -1,7 +1,3 @@
-//Criar uma classe generica que represente um herói de uma aventura, que possua propriedades como: nome, idade e tipo.
-//Além disso, ter um método chamado atacar que deve atender o requisito de exibir a mensagem "o [tipo] atacou usando [ataque]",
-//aonde o "tipo" deve ser concatenando o tipo que está na propriedade da classe, e o ataque ser conforme o tipo.
-
 class heroi {
     //forma do projeto
         constructor(nome, idade, tipo){
